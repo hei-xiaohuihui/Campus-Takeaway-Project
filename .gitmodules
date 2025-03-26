@@ -1,0 +1,6 @@
+[submodule "campus-takeaway-system"]
+	path = campus-takeaway-system
+	url = https://github.com/your-username/campus-takeaway-system.git
+[submodule "takeaway-front"]
+	path = takeaway-front
+	url = https://github.com/your-username/takeaway-front.git
