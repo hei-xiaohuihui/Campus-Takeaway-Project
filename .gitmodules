@@ -3,4 +3,4 @@
 	url = https://github.com/hei-xiaohuihui/campus-takeaway-system.git
 [submodule "takeaway-front"]
 	path = takeaway-front
-	url = https://github.com/hei-xiaohuihui/takeaway-front.git
+	url = https://github.com/hei-xiaohuihui/Takeaway-Front.git
